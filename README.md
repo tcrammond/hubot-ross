@@ -20,3 +20,6 @@ Then add **hubot-ross** to your `external-scripts.json`:
 user1>> hubot ross me
 hubot>> We don't make mistakes, we just have happy accidents.
 ```
+
+#### Misc.
+All trademarks are the property of their respective owners.

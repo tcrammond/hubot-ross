@@ -76,7 +76,7 @@ module.exports = (robot) ->
     ]
 
     # Let's find one of those little quotes
-    quoteIndex = Math.max(Math.min(Math.round(Math.random() * quotes.length), 0), quotes.length)
+    quoteIndex = Math.min(Math.max(Math.round(Math.random() * quotes.length), 0), quotes.length)
 
     # Ross them
     msg.reply quotes[quoteIndex]

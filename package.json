@@ -1,7 +1,7 @@
 {
   "name": "hubot-ross",
   "description": "A hubot script to fill your life with joy and happy trees.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Tyler Crammond <@TylerCrammond>",
   "license": "MIT",
 

@@ -22,4 +22,6 @@ hubot>> We don't make mistakes, we just have happy accidents.
 ```
 
 #### Misc.
+License: MIT
+
 All trademarks are the property of their respective owners.
